@@ -139,9 +139,6 @@ The project existed during a transitional period of internet gaming culture wher
 
 Historical aliases associated with this era included:
 - Cerberus
-- Xorn
-- Xorn256
-- Xzorn
 
 ---
 
