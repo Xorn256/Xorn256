@@ -172,7 +172,6 @@ Public rules discussions occasionally intersected with official designer comment
 
 ### Current Operational Identity
 *   **Primary Names:** Xorn / Xzorn / Xorn256 (Active 2008 – Present)
-*   **Archived Infrastructures:** `RPG-Haven.com` (Verified code repository: [://github.com](https://://github.com))
 
 ### Historical Handles
 *   **Legacy Alias:** Cerberus (Active 1997–2008)
