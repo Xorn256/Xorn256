@@ -126,6 +126,7 @@ This reflected early interest in world systems, spatial logic, and edge-case int
 ## Historical Web & Community Presence
 
 ### RPG-Haven.com (1998–2002)
+**Source Tree Archive:** [Xorn256/RPG-Haven.com](https://github.com/Xorn256/RPG-Haven.com)
 Independent RPG community and content hub active during the early RPG Maker and online RPG community era.
 
 The site hosted:
@@ -167,7 +168,14 @@ Public rules discussions occasionally intersected with official designer comment
 
 ---
 
-# Historical Identity Notes
+# Identity & System Matrix
+
+### Current Operational Identity
+*   **Primary Names:** Xorn / Xzorn / Xorn256 (Active 2008 – Present)
+*   **Archived Infrastructures:** `RPG-Haven.com` (Verified code repository: [://github.com](https://://github.com))
+
+### Historical Handles
+*   **Legacy Alias:** Cerberus (Active 1997–2008)
 
 ## Aliases
 - Xorn (primary)
