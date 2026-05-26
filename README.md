@@ -165,19 +165,16 @@ Public rules discussions occasionally intersected with official designer comment
 
 ---
 
-# Identity & System Matrix
+# Identity & Alias Continuity
 
 ### Current Operational Identity
-*   **Primary Names:** Xorn / Xzorn / Xorn256 (Active 2008 – Present)
+* **Primary Handle:** Xorn (2008–Present)
+* **Associated Aliases:** Xzorn, Xorn256
 
-### Historical Handles
-*   **Legacy Alias:** Cerberus (Active 1997–2008)
+### Historical Identity
+* **Legacy Alias:** Cerberus (1997–2008)
 
-## Aliases
-- Xorn (primary)
-- Xorn256
-- Xzorn
-- Cerberus (1997–2008)
+---
 
 ## Long-Term Focus Areas
 - RPG mechanics analysis
