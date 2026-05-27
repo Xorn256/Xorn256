@@ -11,12 +11,21 @@ Current work focuses on combat systems architecture, emergent mechanics analysis
 ## Modern Systems Design & Development
 - Divinity Conflux
 - Divinity: Original Sin 2 Lua scripting
+* **Development Areas:**
+- gameplay systems development
 - combat systems architecture
+- mechanics analysis and combat architecture
 - encounter and scaling design
+- asymmetrical balance structures
 - emergent mechanics behavior
 - rules interaction analysis
 - layered difficulty frameworks
 - balance and progression systems
+- mechanical/lore cohesion
+- layered combat frameworks
+- emergent gameplay behavior
+
+Public rules discussions occasionally intersected with official designer commentary regarding mechanics interpretation and rules continuity.
 
 ---
 
@@ -153,16 +162,6 @@ Primary systems exposure included:
 - Battletech
 - additional tabletop RPG systems and homebrew experimentation
 
-Areas of long-term interest included:
-- rules interaction and consistency
-- encounter scaling
-- asymmetrical balance structures
-- emergent gameplay behavior
-- mechanical/lore cohesion
-- layered combat frameworks
-
-Public rules discussions occasionally intersected with official designer commentary regarding mechanics interpretation and rules continuity.
-
 ---
 
 # Identity & Alias Continuity
@@ -185,3 +184,10 @@ Public rules discussions occasionally intersected with official designer comment
 - persistent online world design
 - layered difficulty systems
 - rules interaction analysis
+
+---
+
+## Additional Documentation
+* timeline.md — expanded historical chronology
+* design-philosophy.md — systems and scaling principles
+* systems-analysis.md — mechanics discoveries and analysis examples
