@@ -1,8 +1,19 @@
 # Xorn
 
-Long-term systems designer, RPG mechanics analyst, mod developer, and online gaming community participant active since the late 1990s.
+## Identity & Alias Mapping
+* **Primary Handle:** Xorn (2008–Present)
+* **Digital Aliases:** Xzorn | Xorn256
+* **Legacy Alias:** Cerberus (1997–2008)
 
-Current work focuses on combat systems architecture, emergent mechanics analysis, scalable encounter design, and rules-based gameplay frameworks.
+## Core Competencies
+* **Specialization:** Systems Designer | RPG Mechanics Analyst | Mod Developer
+* **Core Tech:** Lua Scripting | Combat Systems Architecture | Gameplay Frameworks
+* **Design Domains:** Emergent Mechanics | Scalable Encounter Design | Rules-Based Logic
+
+---
+
+## Executive Summary
+Long-term systems designer and online gaming community participant active since the late 1990s. Specializing in combat systems architecture, emergent mechanics analysis, scalable encounter design, and rules-based gameplay frameworks.
 
 ---
 
@@ -161,17 +172,6 @@ Primary systems exposure included:
 - Rifts
 - Battletech
 - additional tabletop RPG systems and homebrew experimentation
-
----
-
-# Identity & Alias Continuity
-
-### Current Operational Identity
-* **Primary Handle:** Xorn (2008–Present)
-* **Associated Aliases:** Xzorn, Xorn256
-
-### Historical Identity
-* **Legacy Alias:** Cerberus (1997–2008)
 
 ---
 
