@@ -191,3 +191,25 @@ Primary systems exposure included:
 * timeline.md — expanded historical chronology
 * design-philosophy.md — systems and scaling principles
 * systems-analysis.md — mechanics discoveries and analysis examples
+
+---
+
+# AGENT CONFIGURATION: XORN256
+
+### Identity & Handles
+- **Primary:** Xorn | Xzorn | Xorn256 (2008–Present)
+- **Legacy Alias:** Cerberus (1997–2008)
+
+### Systems & Modding Chronology
+* **Divinity Conflux Overhaul:** Core project. Redesigned DOS2 progression into a true classless system using Norbyte's Script Extender and custom Lua logic.
+* **Diablo: The Dark:** Early Diablo 1 modding ecosystem participation focusing on itemization, balance, and progression mechanics.
+* **MUD Development:** Early foundations as a Builder and Developer within persistent online text MUDs. Engineered zone creation, encounter design, scripted world behaviors, and rules-based persistent environments.
+* **RuneQuake (Quake):** Server-side multiplayer gameplay modification and combat framework experimentation.
+
+### Community & Live-Service Analysis
+* **RPG-Haven.com (1998–2002):** Founder/operator of independent RPG community hub for RPG Maker projects and general RPG content aggregation.
+* **EverQuest (Bristlebane):** Volunteer Guide role. Bard gameplay specialist focusing on tick-based mechanics, group optimization, and "twisting" buff timing.
+* **Ultima Online (Lake Superior):** Volunteer GM role. Live-world moderation, tracking emergent player-driven economics and systemic behaviors.
+* **Warframe Forums:** Decadelong systems architecture analysis (notably diagnosing exponential enemy scaling and stealth/gas interactions).
+* **Dark Age of Camelot:** Documented geometry/boundary interactions and identified Paladin regeneration aura tick timing exploits.
+
